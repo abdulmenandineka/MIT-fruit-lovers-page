@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+image{
+    max-width: 100%;
+}
+
+
+body{
+    background-color: black;
+}
+
+
+header h1{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    padding: 21px 0px 19px 0px;
+    font-size: 60px;
+}
+
+
+.sec1-pineaple img{
+    width: 100%;
+}
+
+
+#main-section{
+    width: 968px;
+    padding:0px auto;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+
+h2{
+    color: blue;
+    text-align: center;
+    font-size: 75px;
+    background-color: rgb(197, 183, 183);
+}
+
+
+.sec2{
+    display: flex;
+    margin: 0px auto;
+    gap: 14px;
+    padding: 45px 0px 45px 0px;
+}
+
+
+.sec3 .sec3-2imgdiv{
+    display: flex;
+    gap: 70px;
+    padding: 45px 0px 45px 0px;
+}
+
+
+footer h1{
+    text-align: center;
+    color: white;
+    font-size: 57px;
+    background-color: blue;
+    padding: 105px 0px 68px 0px;
+}
+
+
